@@ -1,0 +1,16 @@
+body{
+  margin: 0 20px 0 20px;
+  padding:10px 20px 0 20px;
+}
+button{
+  border: none;
+  outline: none;
+  background: #9b4dca;
+  padding: 10px;
+  border-radius: 8px;
+  color: #fff;
+}
+a{
+  text-decoration: none;
+  color: #fff;
+}
